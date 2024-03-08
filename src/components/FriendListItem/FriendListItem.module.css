@@ -1,0 +1,19 @@
+.avatar {
+margin-bottom: 30px;
+}
+
+.avatarName {
+ font-size: 50px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.friendOn {
+ font-size: 30px;
+  color: green;
+}
+
+.friendOff {
+ font-size: 30px;
+  color: red;
+}
